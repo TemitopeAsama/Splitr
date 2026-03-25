@@ -1,6 +1,5 @@
 {
   "buildCommand": "echo 'Static site'",
   "outputDirectory": ".",
-  "framework": null,
-  "nodeVersion": "24"
+  "framework": null
 }
